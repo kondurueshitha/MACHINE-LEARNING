@@ -18,3 +18,9 @@
 ################ 1.Google search can be taken taken as an application of DL, where we will give input and outpu will be displayed
 ################# 2.Virtual assistants
 ################## 3.Language translation 
+
+Applications of machine learning
+1.Smartphones detecting faces while taking photos or unlocking themselves
+2.Facebook, LinkedIn or any other social media site recommending your friends and ads you might be interested in
+3.Amazon recommending you the products based on your browsing history
+4.Banks using Machine Learning to detect Fraud transactions in real-time
