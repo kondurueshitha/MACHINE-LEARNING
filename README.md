@@ -1,4 +1,4 @@
-# MACHINE-LEARNING
+# Task 1 on Machine learning
 ## Machine learning is the study of computer algorithms that improves automatically through experince.
  2.Machines can do high frequency repetitive tasks with high accuracy without getting bored within the given time
 ### Applications of machine learning:
@@ -9,7 +9,8 @@
  2.In this example we are training the model to recognize face when the parameters are satisfied, if not it will tell me not recognised.
 
 # 2ND TASK ON APPLICATIONS OF ML,DL AND AI
-##  Artificial intelligence: Artificial Intelligence is simply the ability of a computer to exhibit “intelligence”. This intelligence can either mimic human intelligence or observe real world problems and intelligently find solutions for it.Ai is the advance of machine learning
+
+#  Artificial intelligence: Artificial Intelligence is simply the ability of a computer to exhibit “intelligence”. This intelligence can either mimic human intelligence or observe real world problems and intelligently find solutions for it.Ai is the advance of machine learning
 ### Appliactions of artificial inteligence
   1.AI in autonoums vehicles: Just like humans,self driving cars need to have sensors to understand the world around them and a brain to collect, perform and choose specific actions based on information gathered. For example when the fuel is low it will direct car to petrol station.Adjust the trips based on the traffic.etc.
    2. AI in businness, education, robotics etc.
@@ -20,6 +21,8 @@
 2.Virtual assistants
 3.Language translation 
 
+
+# Machine learning: Machine learning is a science of teaching computer how to learn by themselves.
 ### Applications of machine learning:
 1.Smartphones detecting faces while taking photos or unlocking themselves
 2.Facebook, LinkedIn or any other social media site recommending your friends and ads you might be interested in
